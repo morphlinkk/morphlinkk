@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## About me
+### About me
 
 I'm a Full-Stack Developer from Russia
 
